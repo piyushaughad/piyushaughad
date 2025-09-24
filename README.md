@@ -1,7 +1,14 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## Hi there 👋 I'm Piyush Aughad
+
+
+🚀 Data Analyst | Business Intelligence Enthusiast | Machine Learning Practitioner
+
+As a data professional, I specialize in extracting valuable insights from complex datasets to drive business success.
+With expertise in statistical analysis, predictive modeling, data visualization, and automation, I help organizations make informed, data-driven decisions.
+
+- 🔭 I’m currently working on building interactive dashboards, predictive analytics models, and ETL pipelines.
+- 🌱 I’m currently learning Big Data (Spark, AWS), Deep Learning, and Advanced Cloud Analytics.
+- 👯 I’m looking to collaborate on data science, machine learning, and business intelligence projects.
 
 <!--
 **piyushaughad/piyushaughad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
